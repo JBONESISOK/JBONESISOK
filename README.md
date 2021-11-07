@@ -1,16 +1,21 @@
-### Hi there 👋
+# Learning everything but creating nothing 
 
-<!--
-**JBONESISOK/JBONESISOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :clipboard:I’m currently working on 
+- Some android development projects
+## I’m currently learning 
+- Kotlin 
+- Java 
+## I'm planning to learn
+- C and C++
+- C# for game development
+## Interests
+- Android Dev :iphone:
+- Game Dev :video_game:
+- Competitive Programming :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  My stats
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JBONESISOK)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBONESISOK&layout=compact)](https://github.com/yushi1007)
