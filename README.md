@@ -7,13 +7,13 @@
 - Kotlin 
 - Java 
 ## I'm planning to learn
-- C and C++
-- C# for game development
+- C++ for competitive programming
+- C# for game development and desktop applications
 ## Interests
 - Android Dev :iphone:
 - Game Dev :video_game:
 - Competitive Programming :computer:
-
+- Desktop applications
 
 ##  My stats
 
