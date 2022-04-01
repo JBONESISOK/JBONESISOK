@@ -6,8 +6,8 @@
 ## I’m currently learning 
 - Kotlin 
 - Java 
+- C++
 ## I'm planning to learn
-- C++ for competitive programming
 - C# for game development and desktop applications
 ## Interests
 - Android Dev :iphone:
