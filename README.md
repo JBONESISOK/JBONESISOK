@@ -12,9 +12,9 @@
 - C# for game development and desktop applications
 ## Interests
 - Android Dev :iphone:
+- Web Dev
 - Game Dev :video_game:
 - Competitive Programming :computer:
-- Desktop applications
 
 ##  My stats
 
