@@ -3,6 +3,7 @@
 
 ## :clipboard:I’m currently working on 
 - Some android development projects
+- Kotlin/JS React Projects
 ## I’m currently learning 
 - Kotlin 
 - Java 
