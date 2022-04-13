@@ -6,9 +6,10 @@
 - Kotlin/JS React Projects
 ## I’m currently learning 
 - Kotlin 
-- React 
-- Java 
-- C++
+- Javascript + React 
+- Java for school
+- C++ for competitive programming
+- Golang
 ## I'm planning to learn
 - C# for game development and desktop applications
 ## Interests
