@@ -4,6 +4,7 @@
 ## :clipboard:I’m currently working on 
 - Some android development projects
 - Kotlin/JS React Projects
+- Backend with Golang
 ## I’m currently learning 
 - Kotlin 
 - Javascript
