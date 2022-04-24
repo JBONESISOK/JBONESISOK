@@ -6,7 +6,7 @@
 - Kotlin/JS React Projects
 ## I’m currently learning 
 - Kotlin 
-- Javascript + React 
+- Javascript
 - Java for school
 - Golang
 ## I'm planning to learn
