@@ -7,11 +7,10 @@
 - Backend with Golang
 ## I’m currently learning 
 - Kotlin 
-- Javascript
 - Java for school
 - Golang
 ## I'm planning to learn
-- C# for game development and desktop applications
+- Godot + GDScript
 ## Interests
 - Android Dev :iphone:
 - Web Dev
