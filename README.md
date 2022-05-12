@@ -9,6 +9,7 @@
 - Kotlin 
 - Java for school
 - Golang
+- Rust
 ## I'm planning to learn
 - Godot + GDScript
 ## Interests
