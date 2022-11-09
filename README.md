@@ -11,10 +11,8 @@
 - Golang
 - Rust
 ## I'm planning to learn
-- Godot + GDScript
 ## Interests
 - Android Dev :iphone:
-- Web Dev
 - Game Dev :video_game:
 - Competitive Programming :computer:
 
