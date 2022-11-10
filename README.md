@@ -10,7 +10,6 @@
 ## Interests
 - Android Dev :iphone:
 - Game Dev :video_game:
-- Competitive Programming :computer:
 
 ##  My stats
 
