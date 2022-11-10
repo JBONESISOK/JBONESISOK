@@ -1,9 +1,11 @@
 ## :clipboard:I’m currently working on 
 - Some android development projects
 - Kotlin/JS React Projects
+- Python Machine Learning Project
 ## I’m currently learning 
 - Kotlin 
-- Java for school
+- Java 
+- Python
 
 ## Interests
 - Android Dev :iphone:
