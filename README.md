@@ -6,10 +6,12 @@
 - Kotlin 
 - Java 
 - Python
+- Assembly
 
 ## Interests
 - Android Dev :iphone:
 - Game Dev :video_game:
+- Cyber Security
 
 ##  My stats
 
