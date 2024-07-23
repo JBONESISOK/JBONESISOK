@@ -3,13 +3,14 @@
 - Kotlin/JS React Projects
 - Python Machine Learning Project
 ## I’m currently learning 
+- React Native
 - Kotlin 
 - Java 
 - Python
 - C++
 
 ## Interests
-- Android Dev :iphone:
+- App Dev :iphone:
 - Game Dev :video_game:
 - Cyber Security
 
