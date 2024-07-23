@@ -6,7 +6,7 @@
 - Kotlin 
 - Java 
 - Python
-- Assembly
+- C++
 
 ## Interests
 - Android Dev :iphone:
